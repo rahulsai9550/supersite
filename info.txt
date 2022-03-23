@@ -1,1 +1,1 @@
-This is not the correc answer, the correct answer is: git remote set-url origin new.url.here. Having git:// will just cause a fatal error. Not sure why this was in the answe
+This is not the correc answer, the correct answer is: git remote set-url origin new.url.here. Having git:// will just cause a fatal error. Not sure why this was in the answer.
